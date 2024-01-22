@@ -1,0 +1,9 @@
+GUI, or Graphical User Interface, is what most people understand when it comes to user interfaces on computers.
+It is a form of file and app navigation that utilizes graphics (images, buttons, and automatic commands) rather than text.
+CLI, or Command Line Interface, like GUI, is a way to navigate files and apps on a computer. CLI doesn't use graphics, but rather,
+is entirely controlled by text commands.
+To the common eye, CLI can be more difficult to navigate than GUI, however it offers many advantages in terms of accessibility and control over a system.
+Using specific commands in CLI, a user can access information and complete complex tasks more efficiently than they could with GUI.
+Because GUI focuses heavily on graphics, it takes a larger toll on performance, but with graphics, almost anyone can use a computer with little training.
+CLI requires users to either memorize or look up commands, which is usually only beneficial if the user's line of work falls under Computer Science or Cyber Security.
+Overall, both GUI and CLI are helpful in their own ways. GUI is a way of navigating a computer easily for general tasks, while CLI is for navigating and controlling a computer specifically and efficiently. 
